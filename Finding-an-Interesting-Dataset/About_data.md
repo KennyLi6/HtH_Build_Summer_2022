@@ -4,7 +4,8 @@ I'm interested in this dataset because I would like to see how hype effects the 
 
 ---
 
-This dataset came from https://www.kaggle.com/datasets/codefantasy/list-of-bestselling-pc-games. "This dataset contains the list of bestselling PC games! Here is the Github link, if you want it: https://github.com/You-now-Who/dataset/tree/main/List-of-bestselling-games-on-PC"
+This dataset came from https://www.kaggle.com/code/moatazghazy/video-game-sales-analysis/data.
+No description added.
 
 # What are 10 (or more) questions that you hope to answer through your data analysis?
 
