@@ -12,12 +12,12 @@ No description added.
 No. | Question
 :-:|:-
 1 | What games have been popular recently?
-2 | What makes those games popular? Genre, art style, skill floor, player base?
-3 | Are those games still being played/what is the concurrent player base?
+2 | Which companies are more popular?
+3 | What genres are preferred in the U.S.?
 4 | What similarities are there between the top selling games?
-5 | What type of marketing was used in order to get more sales and which ones were the most effective?
-6 | How fun is the intended gameplay loop of the game?
-7 | Do the players enjoy that intended gameplay loop?
+5 | Which country has the most consumers?
+6 | Which platform is the most popular?
+7 | What series is most popular?
 8 | Which genres are more popular?
-9 | How did clones of popular games do in terms of sales?
+9 | How did sequels of popular games do in terms of sales?
 10 | How many indie games are top sellers compared to AAA games?
